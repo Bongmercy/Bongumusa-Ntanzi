@@ -1,5 +1,5 @@
 """
-FinSight — AI-Powered Financial Statement Analyser
+BwAise — AI-Powered Financial Statement Analyser
 Built with Streamlit + Anthropic Claude + PyMuPDF + Plotly
 
 Run with:
